@@ -391,6 +391,6 @@ $myUpdateChecker = Puc_v4_Factory::buildUpdateChecker(
 	'appointup'
 );
 
-$myUpdateChecker->setAuthentication('1bbb1f9e71afbe4c89f93836adb71e5882c3f04c');
+ $myUpdateChecker->setAuthentication('1bbb1f9e71afbe4c89f93836adb71e5882c3f04c');
 $myUpdateChecker->setBranch('master');
 $myUpdateChecker->getVcsApi()->enableReleaseAssets();
