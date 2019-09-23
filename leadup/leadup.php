@@ -133,7 +133,7 @@ $myUpdateChecker = Puc_v4_Factory::buildUpdateChecker(
 	'leadup'
 );
 
- $myUpdateChecker->setAuthentication('1bbb1f9e71afbe4c89f93836adb71e5882c3f04c');
+ $myUpdateChecker->setAuthentication('ae88873ac6f45c47aaf572cc9f7e00ceb06c30b5');
 $myUpdateChecker->setBranch('master');
 $myUpdateChecker->getVcsApi()->enableReleaseAssets();
 
