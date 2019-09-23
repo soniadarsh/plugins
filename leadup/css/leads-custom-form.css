@@ -1,0 +1,292 @@
+.custom-header{
+    margin-top:20px;
+    margin-bottom:20px;
+}
+
+.tabnav.ui-widget-content {
+    border: none;
+    background: none;
+    color: #222222;
+}
+#lead-add,#saveleadsdata,#saveleadsocialdata,#saveleademaildata{
+    display: inline-block;
+    padding: 5px 15px;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 1.8;
+    vertical-align: bottom;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    color: #fff;
+    border: none;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    background: #27ae60;
+    border: 0;
+    border-bottom: 2px solid #219d55;
+    cursor: pointer;
+    -webkit-box-shadow: inset 0 -2px #219d55;
+    box-shadow: inset 0 -2px #219d55;
+    -webkit-transform: translateY(5px);
+    -moz-transform: translateY(5px);
+    -ms-transform: translateY(5px);
+    -o-transform: translateY(5px);
+    transform: translateY(5px);
+    margin-top: -10px;
+}
+#cname{
+    width:110px;
+    height:25px;
+}
+#update-lead{
+    margin-left:15px;
+    height:24px;
+    width:24px;
+    border: #fabc09 solid 0px;
+    background: url('update.png') no-repeat; 
+    cursor: pointer;
+    text-decoration: none;
+}
+
+#rname,#tname{
+    margin-left:-3px;
+    width:120px;
+    height:25px;
+}
+#edit{
+    margin-left:15px;
+}
+
+#myselect {
+    width: 125px;
+    height: 34px;
+    overflow: hidden;
+    /*background: url(update.png) no-repeat right #ddd;*/
+    background:#ddd;
+    border: 1px solid #ccc;
+}
+.field{
+    width:50px;
+}
+.rckbox{
+    width:150px;
+}
+.fieldname{
+    width:180px;
+}
+.main-table{
+    width:200px;
+}
+.action{
+    width:50px;
+}
+.field_edit{
+    width:60px;
+}
+.field_type{
+    width:180px;
+}
+.inkwidget {
+    width:928px;
+    margin: 20px;
+    padding: 10px;
+    background: #f3f1eb;
+    border: 1px solid #dedbd1;
+    margin-bottom: 15px;
+}
+
+.inkwidget a {
+    color: #222;
+    text-decoration: none;
+}
+
+.inkwidget a:hover {
+    color: #009;
+    text-decoration: underline;
+}
+.tabnav{  padding-bottom: 12px;}
+.tabnav li {
+    display: inline;
+    list-style: none;
+    padding-right: 5px;
+}
+
+/*.tabnav li a {
+    border-top: 1px solid #96d1f8;
+    background: #65a9d7;
+    background: -webkit-gradient(linear, left top, left bottom, from(#3e779d), to(#65a9d7));
+    background: -webkit-linear-gradient(top, #3e779d, #65a9d7);
+    background: -moz-linear-gradient(top, #3e779d, #65a9d7);
+    background: -ms-linear-gradient(top, #3e779d, #65a9d7);
+    background: -o-linear-gradient(top, #3e779d, #65a9d7);
+    padding: 6px 12px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+    -webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+    -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+    box-shadow: rgba(0,0,0,1) 0 1px 0;
+    text-shadow: rgba(0,0,0,.4) 0 1px 0;
+    color: white;
+    font-size: 16px;
+    font-family: Georgia, serif;
+    text-decoration: none;
+    vertical-align: middle;
+}*/
+/*.tabnav li a:active, .tabnav li.ui-tabs-selected a {
+    border-top-color: #1b435e;
+    background: #1b435e;
+    text-decoration: none;
+}*/
+.tabnav li a:active, .tabnav li.ui-tabs-selected a {
+    background-color: #2181c1;
+    border-bottom: 2px solid #126094;
+    cursor: pointer;
+    -webkit-box-shadow: inset 0 -2px #126094;
+    box-shadow: inset 0 -2px #126094;
+    text-decoration: none;
+}
+
+
+.tabnav li a {
+    display: inline-block;
+    padding: 5px 15px;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 1.8;
+    vertical-align: bottom;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    color: #fff;
+    border: none;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    background-color: #3498db;
+    border-bottom: 2px solid #2a8bcc;
+    cursor: pointer;
+    -webkit-box-shadow: inset 0 -2px #2a8bcc;
+    box-shadow: inset 0 -2px #2a8bcc;
+    -webkit-transform: translateY(5px);
+    -moz-transform: translateY(5px);
+    -ms-transform: translateY(5px);
+    -o-transform: translateY(5px);
+    transform: translateY(5px);
+}
+.tabnav li a:hover {
+    background-color: #2181c1;
+    border-bottom: 2px solid #126094;
+    cursor: pointer;
+    -webkit-box-shadow: inset 0 -2px #126094;
+    box-shadow: inset 0 -2px #126094;
+    color: #ccc;
+    text-decoration: none;
+}
+
+.tabdiv {
+    margin-top: 2px;
+    background: #fff;
+    border: 1px solid #dedbd1;
+    padding: 14px;
+
+}
+.tabdiv li {
+    list-style-image: url("star.png");
+    margin-left: 20px;
+}
+
+.ui-tabs-hide {
+    display: none;
+}
+
+#featuredvid {
+    text-align: center;
+}
+
+.fvid {
+    margin-bottom: 5px;
+}
+
+.vidselector li {
+    text-align: left;
+    list-style: none;
+    padding: 5px;
+    background: #ffffff;
+    border: 1px solid #dedbd1;
+    text-transform: uppercase;
+    margin-bottom: 5px;
+}
+input[type="text"].top-head {
+    width: 330px;
+    height: 35px;  
+}
+.wrap-head input[type="text"]{
+    width:425px;
+    height:30px;
+
+}
+
+.wrap-head label{
+    float: right;
+    margin-top: -1px;
+    width: 35%;
+    margin-right: 50px;
+    color: rgb(139, 139, 139);
+    font-style: italic;
+    cursor: default;
+}
+
+
+.wrap-email label {
+    float: right;
+    width: 35%;
+    margin-top: 5px;
+    margin-right: 50px;
+    color: rgb(139, 139, 139);
+    font-style: italic;
+    cursor: default;
+}
+
+.wrap-capt label {
+    float: right;
+    margin-top: -14px;
+    width: 35%;
+    margin-right: 50px;
+    color: rgb(139, 139, 139);
+    font-style: italic;
+    cursor: default;
+
+}
+.wrap-capt input[type="radio"]{
+    margin-bottom: 11px;
+    margin-left: 10px;
+    width: 15px;
+    height:15px;
+    vertical-align: -webkit-baseline-middle;  
+}
+.wrap-capt span {
+    color: rgb(139, 139, 139);
+    font-size: 16px;
+    padding-left: 5px;
+
+}
+
+.leadform-colors{
+    margin:10px 0 20px 0;
+}
+.leadform-colors select {
+    width: 150px;
+    height: 32px; 	
+    padding: 3px 5px 5px 5px;
+    font-size: 16px;
+    line-height: 1;
+
+}
+input[type=color] {
+    width: 90px;
+    height: 30px;
+    padding: 0px;
+}

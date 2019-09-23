@@ -1,0 +1,25 @@
+/*Red Color Style 
+=============================================================*/
+
+.inkleadsform{
+    background: #ee4141;
+}
+
+.inkleadsform .signinForm ul.inkleadsul li textarea,
+.inkleadsform .signinForm ul.inkleadsul li input[type="text"],
+.inkleadsform .signinForm ul.inkleadsul li input[type="number"],
+.inkleadsform .signinForm ul.inkleadsul li input[type="email"]{
+    background: #d53030;
+    border: solid 1px #f86a6a;
+}
+
+.inkleadsform h2.heading{
+    border-bottom: solid 1px #cb2b2b;
+}
+
+.inkleadsform .signinForm ul.inkleadsul li input[type="submit"]{
+	background-color: #3A3A3A;
+}
+.inkleadsform .signinForm ul.inkleadsul li input[type="submit"]:hover{
+	background-color: #4E4E4E;
+}

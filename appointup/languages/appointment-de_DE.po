@@ -1,0 +1,1069 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AppointUp Plugin\n"
+"POT-Creation-Date: 2015-09-01 10:50+0530\n"
+"PO-Revision-Date: 2015-09-01 10:52+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;_x:1,2c;"
+"_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;esc_attr__:1;"
+"esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: ink-admin/appointments-form/templates/calendar-lib/js/jquery-ui.min.js:10
+#: ink-admin/js/cal-front/jquery-ui.js:10 ink-admin/js/jquery.min.js:10
+msgid "'"
+msgstr "'"
+
+#: ink-admin/appointments-form/apt-class/ajax-function.php:53
+msgid "Price is"
+msgstr "Preis"
+
+#: ink-admin/appointments-form/apt-class/ajax-function.php:55
+msgid "Select any service."
+msgstr "Wählen Sie einen Service."
+
+#: ink-admin/appointments-form/apt-class/apt-class.php:34
+msgid "Please do not refresh this page"
+msgstr "Bitte nicht, diese Seite zu aktualisieren"
+
+#: ink-admin/appointments-form/apt-class/apt-class.php:37
+msgid "This Field is empty."
+msgstr "Dieses Feld ist leer."
+
+#: ink-admin/appointments-form/apt-dashboard/apt-menu.php:31
+#: ink-admin/appointments-form/apt-dashboard/apt-menu.php:33
+msgid "Appointments"
+msgstr "Ernennung"
+
+#: ink-admin/appointments-form/apt-dashboard/apt-menu.php:32
+msgid "Create Appointments"
+msgstr "Termine erstellen"
+
+#: ink-admin/appointments-form/apt-dashboard/apt-menu.php:33
+#: ink-admin/appointments-form/templates/booked-apt.php:2
+msgid "Booked Appointments"
+msgstr "Gebuchte Termine"
+
+#: ink-admin/appointments-form/apt-dashboard/apt-menu.php:34
+msgid "Appointment Calendar"
+msgstr "Terminkalender"
+
+#: ink-admin/appointments-form/apt-dashboard/apt-menu.php:35
+msgid "Payment Details"
+msgstr "Zahlungsdetails"
+
+#: ink-admin/appointments-form/apt-dashboard/apt-menu.php:36
+#: ink-appointment.php:183
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: ink-admin/appointments-form/apt-dashboard/apt-menu.php:130
+msgid "Sr.No."
+msgstr "Sr.No."
+
+#: ink-admin/appointments-form/apt-dashboard/apt-menu.php:130
+#: ink-admin/appointments-form/apt-dashboard/past-appointment.php:104
+#: ink-admin/appointments-form/templates/booked-apt.php:8
+msgid "Appointment Date"
+msgstr "Ernennung Datum"
+
+#: ink-admin/appointments-form/apt-dashboard/apt-menu.php:130
+#: ink-admin/appointments-form/apt-dashboard/past-appointment.php:105
+#: ink-admin/appointments-form/templates/booked-apt.php:9
+#: ink-admin/appointments-form/templates/recent-apt.php:10
+msgid "Appointment Time"
+msgstr "Ernennung Zeit"
+
+#: ink-admin/appointments-form/apt-dashboard/apt-menu.php:130
+#: ink-admin/appointments-form/apt-dashboard/past-appointment.php:106
+#: ink-admin/appointments-form/templates/recent-apt.php:11
+msgid "Person Name"
+msgstr "Personennamen"
+
+#: ink-admin/appointments-form/apt-dashboard/apt-menu.php:130
+msgid "Email Address"
+msgstr "E-Mail-Adresse"
+
+#: ink-admin/appointments-form/apt-dashboard/apt-menu.php:130
+#: ink-admin/appointments-form/apt-dashboard/past-appointment.php:108
+#: ink-admin/appointments-form/templates/booked-apt.php:12
+#: ink-admin/appointments-form/templates/recent-apt.php:13
+#: ink-admin/apt-form.php:191
+msgid "Contact Number"
+msgstr "Kontakt Nummer"
+
+#: ink-admin/appointments-form/apt-dashboard/apt-menu.php:130
+#: ink-admin/appointments-form/apt-dashboard/past-appointment.php:109
+#: ink-admin/appointments-form/templates/booked-apt.php:13
+#: ink-admin/appointments-form/templates/recent-apt.php:14
+msgid "Message"
+msgstr "Nachricht"
+
+#: ink-admin/appointments-form/apt-dashboard/apt-menu.php:130
+#: ink-admin/appointments-form/apt-dashboard/past-appointment.php:110
+#: ink-admin/appointments-form/templates/booked-apt.php:14
+#: ink-admin/appointments-form/templates/payment-apt.php:9
+#: ink-admin/appointments-form/templates/recent-apt.php:15
+#: ink-admin/appointments-form/templates/trans-apt.php:9
+msgid "Amount Paid"
+msgstr "gezahlten Betrag"
+
+#: ink-admin/appointments-form/apt-dashboard/apt-menu.php:130
+#: ink-admin/appointments-form/templates/payment-apt.php:8
+#: ink-admin/appointments-form/templates/trans-apt.php:8
+msgid "Payer Paypal Email"
+msgstr "Payer Paypal Email"
+
+#: ink-admin/appointments-form/apt-dashboard/apt-menu.php:130
+#: ink-admin/appointments-form/templates/payment-apt.php:11
+#: ink-admin/appointments-form/templates/trans-apt.php:11
+msgid "Transaction ID"
+msgstr "Transaktions-ID"
+
+#: ink-admin/appointments-form/apt-dashboard/apt-menu.php:130
+#: ink-admin/appointments-form/apt-dashboard/past-appointment.php:111
+#: ink-admin/appointments-form/templates/booked-apt.php:15
+#: ink-admin/appointments-form/templates/recent-apt.php:16
+msgid "Paid Date"
+msgstr "bezahlt Datum"
+
+#: ink-admin/appointments-form/apt-dashboard/apt-menu.php:404
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+"Sie verfügen nicht über ausreichende Berechtigungen, um auf diese Seite "
+"zuzugreifen."
+
+#: ink-admin/appointments-form/apt-dashboard/apt-menu.php:423
+msgid "Date Slot Updated."
+msgstr "Datum Slot aktualisiert."
+
+#: ink-admin/appointments-form/apt-dashboard/past-appointment.php:98
+msgid "All Past Appointments"
+msgstr "Alle vergangene Ausstattung"
+
+#: ink-admin/appointments-form/apt-dashboard/past-appointment.php:103
+#: ink-admin/appointments-form/templates/booked-apt.php:7
+#: ink-admin/appointments-form/templates/recent-apt.php:8
+#: ink-admin/appointments-form/templates/service-apt.php:24
+msgid "Service Name"
+msgstr "Dienstname"
+
+#: ink-admin/appointments-form/apt-dashboard/past-appointment.php:107
+#: ink-admin/appointments-form/templates/booked-apt.php:11
+#: ink-admin/appointments-form/templates/recent-apt.php:12
+msgid "Contact Email"
+msgstr "Kontakt E-Mail"
+
+#: ink-admin/appointments-form/apt-dashboard/past-appointment.php:144
+#: ink-admin/appointments-form/templates/payment-apt.php:29
+#: ink-admin/appointments-form/templates/recent-apt.php:46
+msgid "Back to All Booked Appointments"
+msgstr "Zurück zu allen Terminen gebucht"
+
+#: ink-admin/appointments-form/apt-dashboard/past-appointment.php:144
+msgid "Delete Checked"
+msgstr "Überprüft löschen"
+
+#: ink-admin/appointments-form/getway/paypal-page.php:44
+#, php-format
+msgid ""
+"<p>Your appointment has been booked successfully. You have to pay the amount "
+"of %s at the time of appointment.<br/>Thanks</p>"
+msgstr ""
+"<p> Ihre Ernennung wurde erfolgreich gebucht. Sie müssen die Menge an %s zum "
+"Zeitpunkt der Ernennung zu zahlen. <br/> Dank </ p>"
+
+#: ink-admin/appointments-form/getway/paypal-page.php:56
+#: ink-admin/appointments-form/getway/paypal/paypaltrans.php:53
+#: ink-admin/appointments-form/templates/calendar-lib/event.php:165
+#, php-format
+msgid "Hello %s"
+msgstr "Hallo %s"
+
+#: ink-admin/appointments-form/getway/paypal-page.php:58
+#: ink-admin/appointments-form/getway/paypal/paypaltrans.php:55
+msgid ""
+"Your Appointment had been fixed, below are the details of your appointment."
+msgstr "Ihre Ernennung wurde behoben, unten sind die Details des Termins."
+
+#: ink-admin/appointments-form/getway/paypal-page.php:59
+#: ink-admin/appointments-form/getway/paypal/paypaltrans.php:56
+#: ink-admin/appointments-form/templates/calendar-lib/event.php:168
+#: ink-admin/appointments-form/templates/calendar-lib/event.php:183
+#, php-format
+msgid "Service Name: %s"
+msgstr "Dienstname: %s"
+
+#: ink-admin/appointments-form/getway/paypal-page.php:60
+#: ink-admin/appointments-form/getway/paypal/paypaltrans.php:57
+#: ink-admin/appointments-form/templates/calendar-lib/event.php:169
+#: ink-admin/appointments-form/templates/calendar-lib/event.php:184
+#, php-format
+msgid "Appointment Date: %s"
+msgstr "Termin Termine : %s"
+
+#: ink-admin/appointments-form/getway/paypal-page.php:61
+#: ink-admin/appointments-form/getway/paypal/paypaltrans.php:58
+#: ink-admin/appointments-form/templates/calendar-lib/event.php:170
+#: ink-admin/appointments-form/templates/calendar-lib/event.php:185
+#, php-format
+msgid "Appointment Time: %s"
+msgstr "Sprechstunden: %s"
+
+#: ink-admin/appointments-form/getway/paypal-page.php:62
+#: ink-admin/appointments-form/getway/paypal/paypaltrans.php:59
+#: ink-admin/appointments-form/templates/calendar-lib/event.php:171
+#: ink-admin/appointments-form/templates/calendar-lib/event.php:186
+#, php-format
+msgid "Amount Paid: %s"
+msgstr "Menge an: %s"
+
+#: ink-admin/appointments-form/getway/paypal-page.php:63
+#: ink-admin/appointments-form/getway/paypal/paypaltrans.php:60
+#: ink-admin/appointments-form/templates/calendar-lib/event.php:172
+#: ink-admin/appointments-form/templates/calendar-lib/event.php:187
+#, php-format
+msgid "Date: %s"
+msgstr "Datum: %s"
+
+#: ink-admin/appointments-form/getway/paypal-page.php:64
+#: ink-admin/appointments-form/getway/paypal/paypaltrans.php:61
+#: ink-admin/appointments-form/templates/calendar-lib/event.php:173
+msgid "Thanks for booking with us."
+msgstr "Vielen Dank für die Buchung bei uns."
+
+#: ink-admin/appointments-form/getway/paypal-page.php:67
+#: ink-admin/appointments-form/getway/paypal/paypaltrans.php:64
+msgid "Your Appointment Confirmation Email"
+msgstr "Ihre Terminbestätigung per E-Mail"
+
+#: ink-admin/appointments-form/getway/paypal/paypal_response.php:48
+#: ink-admin/appointments-form/getway/paypal/paypal_sandbox.php:50
+msgid "Processing.... Please Wait..."
+msgstr "Verarbeitung .... Bitte warten ..."
+
+#: ink-admin/appointments-form/getway/paypal/paypaltrans.php:85
+#, php-format
+msgid "New Appointment Booked through %s"
+msgstr "Neuer Termin über die %sgebucht"
+
+#: ink-admin/appointments-form/getway/paypal/paypaltrans.php:86
+msgid "Hello,"
+msgstr "Hallo,"
+
+#: ink-admin/appointments-form/getway/paypal/paypaltrans.php:87
+msgid ""
+"New Appointment booked. Below are the details of the Appointment which is "
+"booked."
+msgstr ""
+"Neuer Termin gebucht. Angezeigt werden die Einzelheiten der Ernennung, die "
+"gebucht wird."
+
+#: ink-admin/appointments-form/getway/paypal/paypaltrans.php:89
+#, php-format
+msgid "Service Name Booked: %s "
+msgstr "Dienstname gebucht: %s"
+
+#: ink-admin/appointments-form/getway/paypal/paypaltrans.php:90
+#, php-format
+msgid "Person Name: %s "
+msgstr "Personennamen: %s"
+
+#: ink-admin/appointments-form/getway/paypal/paypaltrans.php:91
+#, php-format
+msgid "Appointment Date Booked: %s"
+msgstr "Termin Datum gebucht: %s"
+
+#: ink-admin/appointments-form/getway/paypal/paypaltrans.php:92
+#, php-format
+msgid "Appointment Time Booked: %s"
+msgstr "Termin gebucht: %s"
+
+#: ink-admin/appointments-form/getway/paypal/paypaltrans.php:93
+#, php-format
+msgid "Amount Received: %s"
+msgstr "Menge empfangen: %s"
+
+#: ink-admin/appointments-form/getway/paypal/paypaltrans.php:94
+msgid "You can login to your dashboard to see all the details."
+msgstr "Sie können zu Ihrem Dashboard anmelden, um alle Details zu sehen."
+
+#: ink-admin/appointments-form/getway/paypal/paypaltrans.php:95
+msgid "Thanks"
+msgstr "Vielen Dank"
+
+#: ink-admin/appointments-form/getway/paypal/paypaltrans.php:118
+#, php-format
+msgid "Service Name:&nbsp;&nbsp;<b>%s</b><br/>"
+msgstr "Dienstname:&nbsp;&nbsp;<b>%s</b><br/>"
+
+#: ink-admin/appointments-form/getway/paypal/paypaltrans.php:119
+#, php-format
+msgid "Appointment Date:&nbsp;&nbsp;<b>%s</b><br/>"
+msgstr "Termin Datum:&nbsp;&nbsp;<b>%s</b><br/>"
+
+#: ink-admin/appointments-form/getway/paypal/paypaltrans.php:120
+#, php-format
+msgid "Appointment Time:&nbsp;&nbsp;<b>%s</b><br/>"
+msgstr "Termin:&nbsp;&nbsp;<b>%s</b><br/>"
+
+#: ink-admin/appointments-form/getway/paypal/paypaltrans.php:121
+#, php-format
+msgid "Amount Paid:&nbsp;&nbsp;<b>%s</b><br/>"
+msgstr "gezahlten Betrag:&nbsp;&nbsp;<b>%s</b><br/>"
+
+#: ink-admin/appointments-form/getway/paypal/paypaltrans.php:122
+#, php-format
+msgid "Payment Currency:&nbsp;&nbsp;<b>%s</b><br/>"
+msgstr "Zahlungswährung:&nbsp;&nbsp;<b>%s</b><br/>"
+
+#: ink-admin/appointments-form/getway/paypal/paypaltrans.php:123
+#, php-format
+msgid "Transaction ID:&nbsp;&nbsp;<b>%s</b><br/>"
+msgstr "Transaktions-ID:&nbsp;&nbsp;<b>%s</b><br/>"
+
+#: ink-admin/appointments-form/getway/paypal/paypaltrans.php:124
+#, php-format
+msgid "Payment Receiver Email:&nbsp;&nbsp;<b>%s</b><br/>"
+msgstr "Zahlungs Empfänger E-Mail:&nbsp;&nbsp;<b>%s</b><br/>"
+
+#: ink-admin/appointments-form/getway/paypal/paypaltrans.php:125
+#, php-format
+msgid "Payment Payer Email:&nbsp;&nbsp;<b>%s</b><br/>"
+msgstr "Zahlungszahler per E-Mail:&nbsp;&nbsp;<b>%s</b><br/>"
+
+#: ink-admin/appointments-form/getway/paypal/paypaltrans.php:126
+msgid "Mode of Payment:&nbsp;&nbsp;<b>Paypal</b><br/>"
+msgstr "Zahlungsweise:&nbsp;&nbsp;<b>Paypal</b><br/>"
+
+#: ink-admin/appointments-form/getway/paypal/paypaltrans.php:127
+#, php-format
+msgid "Your Payment Status:&nbsp;&nbsp;<b>%s</b><br/>"
+msgstr "Ihren Zahlungsstatus:&nbsp;&nbsp;<b>%s</b><br/>"
+
+#: ink-admin/appointments-form/templates/booked-apt.php:2
+msgid "View in Calendar"
+msgstr "Ansicht des Kalenders"
+
+#: ink-admin/appointments-form/templates/booked-apt.php:10
+msgid "Client Name"
+msgstr "Kundenname"
+
+#: ink-admin/appointments-form/templates/booked-apt.php:50
+msgid "View All Recent Appointments"
+msgstr "Alle anzeigen Zuletzt Appointments"
+
+#: ink-admin/appointments-form/templates/booked-apt.php:52
+msgid "View All Past Appointments"
+msgstr "Alle vergangene Termine"
+
+#: ink-admin/appointments-form/templates/booked-apt.php:53
+#: ink-admin/appointments-form/templates/service-apt.php:81
+#: ink-admin/appointments-form/templates/timeslot-apt.php:170
+#: ink-admin/appointments-form/templates/timeslot-apt.php:255
+#: ink-admin/appointments-form/templates/timeslot-apt.php:334
+#: ink-admin/appointments-form/templates/timeslot-apt.php:413
+#: ink-admin/appointments-form/templates/timeslot-apt.php:495
+#: ink-admin/appointments-form/templates/timeslot-apt.php:577
+#: ink-admin/appointments-form/templates/timeslot-apt.php:656
+msgid "Delete"
+msgstr "löschen"
+
+#: ink-admin/appointments-form/templates/booked-apt.php:61
+msgid "Download CSV File"
+msgstr "Download CSV Datei"
+
+#: ink-admin/appointments-form/templates/calendar-lib/calendar-apt.php:64
+#, php-format
+msgid "Service Name : %s <br>Email: %s <br> Price : %s"
+msgstr "Dienstname :%s <br> E-mail: %s<br> Preis: %s"
+
+#: ink-admin/appointments-form/templates/calendar-lib/calendar-apt.php:132
+msgid "Language: "
+msgstr ""
+
+#: ink-admin/appointments-form/templates/calendar-lib/event.php:182
+#, php-format
+msgid "Client Name: %s"
+msgstr "Kundenname: %s"
+
+#: ink-admin/appointments-form/templates/calendar-lib/event.php:188
+msgid "Thanks for using AppointUp plugin."
+msgstr "Danke fuer die Benutzung Ink Ernennung Plugin."
+
+#: ink-admin/appointments-form/templates/calendar-lib/event.php:189
+msgid "Warm Regards,<br/><br/>"
+msgstr "Herzliche Grüße,<br/><br/>"
+
+#: ink-admin/appointments-form/templates/dateslot-apt.php:12
+msgid "Opening Date"
+msgstr "Eröffnungsdatum"
+
+#: ink-admin/appointments-form/templates/dateslot-apt.php:12
+msgid "The Start Date from which your service will be available."
+msgstr "Das Startdatum von dem Ihr Dienst verfügbar sein."
+
+#: ink-admin/appointments-form/templates/dateslot-apt.php:14
+msgid "Closing Date"
+msgstr "Einsendeschluss"
+
+#: ink-admin/appointments-form/templates/dateslot-apt.php:14
+msgid "The Close Date till your service will be available."
+msgstr "Das Abschlussdatum bis Ihre Service zur Verfügung stehen."
+
+#: ink-admin/appointments-form/templates/dateslot-apt.php:16
+#: ink-admin/appointments-form/templates/timeslot-apt.php:50
+#: ink-admin/appointments-form/templates/timeslot-apt.php:106
+msgid "Monday"
+msgstr "Montag"
+
+#: ink-admin/appointments-form/templates/dateslot-apt.php:17
+#: ink-admin/appointments-form/templates/timeslot-apt.php:51
+#: ink-admin/appointments-form/templates/timeslot-apt.php:187
+msgid "Tuesday"
+msgstr "Dienstag"
+
+#: ink-admin/appointments-form/templates/dateslot-apt.php:18
+#: ink-admin/appointments-form/templates/timeslot-apt.php:52
+#: ink-admin/appointments-form/templates/timeslot-apt.php:269
+msgid "Wednesday"
+msgstr "Mittwoch"
+
+#: ink-admin/appointments-form/templates/dateslot-apt.php:19
+#: ink-admin/appointments-form/templates/timeslot-apt.php:53
+#: ink-admin/appointments-form/templates/timeslot-apt.php:349
+msgid "Thursday"
+msgstr "Donnerstag"
+
+#: ink-admin/appointments-form/templates/dateslot-apt.php:20
+#: ink-admin/appointments-form/templates/timeslot-apt.php:54
+#: ink-admin/appointments-form/templates/timeslot-apt.php:429
+msgid "Friday"
+msgstr "Freitag"
+
+#: ink-admin/appointments-form/templates/dateslot-apt.php:21
+#: ink-admin/appointments-form/templates/timeslot-apt.php:55
+#: ink-admin/appointments-form/templates/timeslot-apt.php:511
+msgid "Saturday"
+msgstr "Samstag"
+
+#: ink-admin/appointments-form/templates/dateslot-apt.php:22
+#: ink-admin/appointments-form/templates/timeslot-apt.php:56
+#: ink-admin/appointments-form/templates/timeslot-apt.php:592
+msgid "Sunday"
+msgstr "Sonntag"
+
+#: ink-admin/appointments-form/templates/dateslot-apt.php:23
+#: ink-admin/appointments-form/templates/dateslot-apt.php:96
+msgid "Update"
+msgstr "Aktualisierung"
+
+#: ink-admin/appointments-form/templates/dateslot-apt.php:24
+#: ink-admin/appointments-form/templates/service-apt.php:28
+#: ink-admin/appointments-form/templates/timeslot-apt.php:98
+msgid "Action"
+msgstr "Aktion"
+
+#: ink-admin/appointments-form/templates/dateslot-apt.php:99
+msgid "Reset"
+msgstr "rücksetzen"
+
+#: ink-admin/appointments-form/templates/dateslot-apt.php:106
+msgid "Set Time Slot"
+msgstr "set-Zeitschlitz"
+
+#: ink-admin/appointments-form/templates/dateslot-apt.php:109
+#: ink-admin/appointments-form/templates/timeslot-apt.php:669
+msgid "Back to Services"
+msgstr "Zurück zu Dienstleistungen"
+
+#: ink-admin/appointments-form/templates/payment-apt.php:2
+msgid "Create New Service"
+msgstr "Neuen Dienst erstellen"
+
+#: ink-admin/appointments-form/templates/payment-apt.php:7
+#: ink-admin/appointments-form/templates/trans-apt.php:7
+msgid "Service Taken"
+msgstr "Betrieb genommen"
+
+#: ink-admin/appointments-form/templates/payment-apt.php:10
+#: ink-admin/appointments-form/templates/trans-apt.php:10
+msgid "Transaction Date"
+msgstr "Transaktionsdatum"
+
+#: ink-admin/appointments-form/templates/payment-apt.php:12
+#: ink-admin/appointments-form/templates/trans-apt.php:12
+msgid "Status"
+msgstr "Status"
+
+#: ink-admin/appointments-form/templates/recent-apt.php:3
+msgid "Recent 10 Appointments"
+msgstr "Letzte 10 Termine"
+
+#: ink-admin/appointments-form/templates/recent-apt.php:9
+msgid "Appointment Dat"
+msgstr "Termin Datum"
+
+#: ink-admin/appointments-form/templates/service-apt.php:7
+msgid "Enter Service Name:"
+msgstr "Geben Sie Dienstname:"
+
+#: ink-admin/appointments-form/templates/service-apt.php:8
+#: ink-admin/apt-form.php:184
+msgid "Name"
+msgstr "Benennung"
+
+#: ink-admin/appointments-form/templates/service-apt.php:9
+msgid "Price:"
+msgstr "Preis:"
+
+#: ink-admin/appointments-form/templates/service-apt.php:10
+msgid "Enter the Price for the service in numeric value: Example: 10, 15, 20"
+msgstr ""
+"Geben Sie den Preis für den Dienst in numerischer Wert: Beispiel: 10, 15, 20"
+
+#: ink-admin/appointments-form/templates/service-apt.php:12
+msgid "Add New Service"
+msgstr "Neuen Service hinzufügen"
+
+#: ink-admin/appointments-form/templates/service-apt.php:23
+msgid "Sr. No."
+msgstr "Sr. No."
+
+#: ink-admin/appointments-form/templates/service-apt.php:25
+#: ink-admin/apt-form.php:219
+msgid "Service Price"
+msgstr "Service Preis"
+
+#: ink-admin/appointments-form/templates/service-apt.php:26
+#: ink-admin/appointments-form/templates/service-apt.php:51
+#: ink-admin/appointments-form/templates/service-apt.php:68
+msgid "Add Date Slot"
+msgstr "Fügen Sie Datum Slot"
+
+#: ink-admin/appointments-form/templates/service-apt.php:27
+#: ink-admin/appointments-form/templates/service-apt.php:56
+#: ink-admin/appointments-form/templates/service-apt.php:73
+msgid "Add Time Slot"
+msgstr "In Zeitschlitz"
+
+#: ink-admin/appointments-form/templates/service-apt.php:60
+msgid "Save Service"
+msgstr "Service Speichern"
+
+#: ink-admin/appointments-form/templates/service-apt.php:78
+#: ink-admin/appointments-form/templates/timeslot-apt.php:167
+#: ink-admin/appointments-form/templates/timeslot-apt.php:252
+#: ink-admin/appointments-form/templates/timeslot-apt.php:331
+#: ink-admin/appointments-form/templates/timeslot-apt.php:410
+#: ink-admin/appointments-form/templates/timeslot-apt.php:492
+#: ink-admin/appointments-form/templates/timeslot-apt.php:574
+#: ink-admin/appointments-form/templates/timeslot-apt.php:653
+msgid "Edit"
+msgstr "bearbeiten"
+
+#: ink-admin/appointments-form/templates/setting-apt.php:24
+msgid "Date Exceptions"
+msgstr "Datum Ausnahmen"
+
+#: ink-admin/appointments-form/templates/setting-apt.php:25
+msgid "Reminder Email Settings"
+msgstr "Erinnerung E-Mail-Einstellungen"
+
+#: ink-admin/appointments-form/templates/setting-apt.php:26
+#: ink-admin/appointments-form/templates/setting-apt.php:312
+msgid "Form Styles"
+msgstr "Form Stile"
+
+#: ink-admin/appointments-form/templates/setting-apt.php:27
+msgid "Other Settings"
+msgstr "andere Einstellungen"
+
+#: ink-admin/appointments-form/templates/setting-apt.php:142
+msgid "ID"
+msgstr "ID"
+
+#: ink-admin/appointments-form/templates/setting-apt.php:143
+msgid "Currency"
+msgstr "Währung"
+
+#: ink-admin/appointments-form/templates/setting-apt.php:144
+msgid "Code"
+msgstr "Code"
+
+#: ink-admin/appointments-form/templates/setting-apt.php:145
+msgid "Symbol"
+msgstr "Symbol"
+
+#: ink-admin/appointments-form/templates/setting-apt.php:172
+msgid "Exceptional working days(e.g. a specific Sunday you decided to work)"
+msgstr ""
+"Außergewöhnliche Arbeitstage (zB einen bestimmten Sonntag Sie sich "
+"entschieden, um zu arbeiten)"
+
+#: ink-admin/appointments-form/templates/setting-apt.php:180
+#: ink-admin/appointments-form/templates/setting-apt.php:190
+msgid ""
+"Please enter each date using M-D-YYYY format (e.g. 3-17-2015) and separate "
+"each day with a comma. Datepick will allow entering multiple dates. "
+msgstr ""
+"Bitte geben Sie jeden Tag mit MD-JJJJ-Format (zB 2015.03.17) und trennen Sie "
+"jeden Tag mit einem Komma. Datepick ermöglicht Eingabe mehrerer Tage."
+
+#: ink-admin/appointments-form/templates/setting-apt.php:183
+msgid "Exceptional NON working days(e.g. holidays)"
+msgstr "Außergewöhnliche Nichtarbeitstage (z. Feiertagen)"
+
+#: ink-admin/appointments-form/templates/setting-apt.php:193
+msgid "Bulk Disable Days"
+msgstr "Groß Disable Tage"
+
+#: ink-admin/appointments-form/templates/setting-apt.php:244
+msgid "You can select days to bulk disable appointment"
+msgstr "Sie können Tage, um Groß disable Termin wählen"
+
+#: ink-admin/appointments-form/templates/setting-apt.php:251
+msgid "Send Reminder Notification"
+msgstr "Sendungserinnerung Benachrichtigung"
+
+#: ink-admin/appointments-form/templates/setting-apt.php:261
+msgid ""
+"Whether to send reminder notification email(s) to the client before the "
+"appointment."
+msgstr ""
+"Ob zur Erinnerung Benachrichtigungs-Mails) an den Client vor dem Termin zu "
+"senden."
+
+#: ink-admin/appointments-form/templates/setting-apt.php:264
+msgid "Send Reminder Notification to Administrator"
+msgstr "Sendungserinnerung Benachrichtigung an den Administrator"
+
+#: ink-admin/appointments-form/templates/setting-apt.php:272
+msgid "Select the option to get notification"
+msgstr "Wählen Sie die Option Benachrichtigung erhalten"
+
+#: ink-admin/appointments-form/templates/setting-apt.php:276
+msgid "Administrator Notification Email"
+msgstr "Benachrichtigung des Administrators per E-Mail"
+
+#: ink-admin/appointments-form/templates/setting-apt.php:280
+msgid ""
+"Enter your email to get reminder notifications, this email is also used as "
+"\"From\" email to send reminder notification."
+msgstr ""
+"Geben Sie einfach Ihre E-Mail-Benachrichtigungen erhalten, Erinnerung, diese "
+"E-Mail wird auch als \"Aus\" verwendet werden, um E-Mail-Erinnerung "
+"Benachrichtigung zu senden."
+
+#: ink-admin/appointments-form/templates/setting-apt.php:284
+msgid "Number of day before reminder email Send"
+msgstr "Anzahl der Tage vor Erinnerung per E-Mail"
+
+#: ink-admin/appointments-form/templates/setting-apt.php:297
+msgid "Select number of days before the reminder email send"
+msgstr "Wählen Sie Anzahl der Tage vor der Erinnerung per E-Mail senden"
+
+#: ink-admin/appointments-form/templates/setting-apt.php:301
+msgid "Reminder Email Subject"
+msgstr "Erinnerung E-Mail Betreff"
+
+#: ink-admin/appointments-form/templates/setting-apt.php:305
+msgid "Enter Subject for Reminder notification email."
+msgstr "Geben Sie Betreff für die Erinnerung Benachrichtigung per E-Mail."
+
+#: ink-admin/appointments-form/templates/setting-apt.php:316
+msgid "Default"
+msgstr "Standard"
+
+#: ink-admin/appointments-form/templates/setting-apt.php:317
+msgid "Blue"
+msgstr "blau"
+
+#: ink-admin/appointments-form/templates/setting-apt.php:318
+msgid "Green"
+msgstr "grün"
+
+#: ink-admin/appointments-form/templates/setting-apt.php:319
+msgid "Red"
+msgstr "rote"
+
+#: ink-admin/appointments-form/templates/setting-apt.php:320
+msgid "Yellow"
+msgstr "gelb"
+
+#: ink-admin/appointments-form/templates/setting-apt.php:323
+msgid ""
+"Select the form color, you can set it to blue, green, red and yellow. by "
+"default \"Default\" option is selected."
+msgstr ""
+"Wählen Sie das Formular Farbe, können Sie es auf blau, grün, rot und gelb "
+"gesetzt. Standardeinstellung \"Default\" Option ausgewählt ist."
+
+#: ink-admin/appointments-form/templates/setting-apt.php:330
+msgid "Captcha On/Off"
+msgstr "Captcha On / Off"
+
+#: ink-admin/appointments-form/templates/setting-apt.php:335
+msgid "On"
+msgstr "Ein"
+
+#: ink-admin/appointments-form/templates/setting-apt.php:338
+msgid "Off"
+msgstr "weg"
+
+#: ink-admin/appointments-form/templates/setting-apt.php:341
+msgid "By default captcha is activated. Turn it off to deactivate this"
+msgstr ""
+"Standardmäßig captcha aktiviert. Schalten Sie ihn aus, um diese zu "
+"deaktivieren"
+
+#: ink-admin/appointments-form/templates/setting-apt.php:346
+msgid "Recaptcha Public Key"
+msgstr "Recaptcha Public Key"
+
+#: ink-admin/appointments-form/templates/setting-apt.php:349
+msgid ""
+"Go to <a href=\"https://www.google.com/recaptcha/\" target=\"_blank\">Google "
+"Recaptcha</a> to Create your Public key"
+msgstr ""
+"Zum href=\"https://www.google.com/recaptcha/\" <a target=\"_blank\"> Google "
+"Recaptcha </a> Ihren öffentlichen Schlüssel erstellen"
+
+#: ink-admin/appointments-form/templates/setting-apt.php:354
+msgid "Recaptcha Private Key"
+msgstr "Recaptcha Private Key"
+
+#: ink-admin/appointments-form/templates/setting-apt.php:357
+msgid ""
+"Go to <a href=\"https://www.google.com/recaptcha/\" target=\"_blank\">Google "
+"Recaptcha</a> to Create your Private key"
+msgstr ""
+"Zum href=\"https://www.google.com/recaptcha/\" <a target=\"_blank\"> Google "
+"Recaptcha </a> auf Ihren privaten Schlüssel erstellen"
+
+#: ink-admin/appointments-form/templates/setting-apt.php:374
+msgid "Reset Options"
+msgstr "Optionen zum Zurücksetzen"
+
+#: ink-admin/appointments-form/templates/timeslot-apt.php:11
+msgid "Bulk Add Timing"
+msgstr "Groß Add-Timing"
+
+#: ink-admin/appointments-form/templates/timeslot-apt.php:15
+msgid "Start Time"
+msgstr "Startzeit"
+
+#: ink-admin/appointments-form/templates/timeslot-apt.php:15
+msgid "Time from which your service will be available."
+msgstr "Zeitpunkt, ab dem Ihr Dienst verfügbar sein."
+
+#: ink-admin/appointments-form/templates/timeslot-apt.php:17
+msgid "End Time"
+msgstr "Endzeit"
+
+#: ink-admin/appointments-form/templates/timeslot-apt.php:18
+msgid "The end time till your service is available."
+msgstr "Die Endzeit bis Ihr Dienst verfügbar ist."
+
+#: ink-admin/appointments-form/templates/timeslot-apt.php:20
+#: ink-admin/appointments-form/templates/timeslot-apt.php:97
+msgid "Appointment Count"
+msgstr "Termin Count"
+
+#: ink-admin/appointments-form/templates/timeslot-apt.php:21
+msgid "Number of Appointments you want to book at a particular time slot."
+msgstr ""
+"Anzahl der Termine, die Sie wollen zu einem bestimmten Zeitfenster buchen."
+
+#: ink-admin/appointments-form/templates/timeslot-apt.php:23
+msgid "Time Interval"
+msgstr "Zeitintervall"
+
+#: ink-admin/appointments-form/templates/timeslot-apt.php:24
+msgid ""
+"Interval between time slots. Numeric Value in minutes. Example: 30, 45, 60"
+msgstr ""
+"Intervall zwischen den Zeitschlitzen. Numerischer Wert in Minuten. Beispiel: "
+"30, 45, 60"
+
+#: ink-admin/appointments-form/templates/timeslot-apt.php:82
+msgid "Add Bulk Timing"
+msgstr "In Bulk-Timing"
+
+#: ink-admin/appointments-form/templates/timeslot-apt.php:88
+msgid "All Available Timing"
+msgstr "Alle verfügbaren Zeit"
+
+#: ink-admin/appointments-form/templates/timeslot-apt.php:94
+msgid "Day"
+msgstr "Tag"
+
+#: ink-admin/appointments-form/templates/timeslot-apt.php:95
+msgid "Opening Time"
+msgstr "Öffnungszeit"
+
+#: ink-admin/appointments-form/templates/timeslot-apt.php:96
+msgid "Closing Time"
+msgstr "Geschäftsschluss"
+
+#: ink-admin/appointments-form/templates/timeslot-apt.php:127
+#: ink-admin/appointments-form/templates/timeslot-apt.php:211
+#: ink-admin/appointments-form/templates/timeslot-apt.php:291
+#: ink-admin/appointments-form/templates/timeslot-apt.php:370
+#: ink-admin/appointments-form/templates/timeslot-apt.php:451
+#: ink-admin/appointments-form/templates/timeslot-apt.php:533
+#: ink-admin/appointments-form/templates/timeslot-apt.php:614
+msgid "Add"
+msgstr "hinzufügen"
+
+#: ink-admin/appointments-form/templates/timeslot-apt.php:158
+#: ink-admin/appointments-form/templates/timeslot-apt.php:243
+#: ink-admin/appointments-form/templates/timeslot-apt.php:323
+#: ink-admin/appointments-form/templates/timeslot-apt.php:401
+#: ink-admin/appointments-form/templates/timeslot-apt.php:483
+#: ink-admin/appointments-form/templates/timeslot-apt.php:565
+#: ink-admin/appointments-form/templates/timeslot-apt.php:645
+msgid "Update Time Slot"
+msgstr "Update-Zeitschlitz"
+
+#: ink-admin/appointments-form/templates/trans-apt.php:2
+msgid "Payment Transaction Details"
+msgstr "Payment Details der Transaktion"
+
+#: ink-admin/appointments-form/templates/trans-apt.php:36
+msgid "Not Found Data"
+msgstr "Nicht gefunden Daten"
+
+#: ink-admin/appointments-form/text-data.php:3
+msgid "Not Available"
+msgstr "nicht Verfügbar"
+
+#: ink-admin/appointments-form/text-data.php:4
+msgid ""
+"<b>Note:</b> After creating your desired services, specify the available "
+"Date Slot and Time Slot for your services."
+msgstr ""
+"<b> Hinweis: </b> Nach der Erstellung Ihres gewünschten Dienste, geben Sie "
+"den verfügbaren Zeitschlitz und Zeitfenster für Ihre Dienste."
+
+#: ink-admin/appointments-form/text-data.php:5
+msgid "Set Time Slot for"
+msgstr "eingestellten Zeit Slot für"
+
+#: ink-admin/appointments-form/text-data.php:6
+msgid ""
+"Add all the Timings for the  Available days i.e. when your services would be "
+"available or active."
+msgstr ""
+"In all den Zeitpunkten für die verfügbaren Tage das heißt, wenn Sie Ihre "
+"Dienstleistungen zur Verfügung stehen würde oder aktiv."
+
+#: ink-admin/appointments-form/text-data.php:7
+msgid "Set Date Slot for"
+msgstr "Datum einstellen Slot für"
+
+#: ink-admin/appointments-form/text-data.php:8
+msgid ""
+"<b>Note:</b> Set the Opening Date and Closing Date of the service. After "
+"that decide the working days of the service. <b>For e.g.</b> If you are "
+"running a Spa in summers, then you can choose the Opening Date and Closing "
+"Date accordingly and then decide the working days on which your service will "
+"be available. If you run your services throughout the year then choose the "
+"dates between the entire year range and then choose the days accordingly."
+msgstr ""
+"<b> Hinweis: </b> Legen Sie das Eröffnungsdatum und Abschlussdatum des "
+"Dienstes. Danach entscheiden die Arbeitstage des Dienstes. <b> Für zB </b> "
+"Wenn Sie mit einem Spa im Sommer, dann können Sie das Eröffnungsdatum und "
+"Abschlussdatum entsprechend zu wählen, und dann entscheiden, die Arbeitstage "
+"auf dem Ihr Dienst verfügbar sein wird. Wenn Sie Ihre Leistungen während des "
+"Jahres führen Sie dann die Daten zwischen dem gesamten Jahresbereich wählen, "
+"und wählen Sie dann die Tage entsprechend."
+
+#: ink-admin/appointments-form/text-data.php:9
+msgid "Appointments Advance Settings"
+msgstr "Termine Erweiterte Einstellungen"
+
+#: ink-admin/appointments-form/text-data.php:10
+msgid "Payment Setting"
+msgstr "Zahlungseinstellung"
+
+#: ink-admin/appointments-form/text-data.php:11
+msgid "Manage Currency"
+msgstr "Währungs verwalten"
+
+#: ink-admin/appointments-form/text-data.php:12
+msgid "Redirect After Paypal Payment URL"
+msgstr "Redirect Nach Paypal Zahlung URL"
+
+#: ink-admin/appointments-form/text-data.php:13
+msgid "Merchant ID"
+msgstr "Händler-ID"
+
+#: ink-admin/appointments-form/text-data.php:14
+msgid ""
+"Either mention the email id of your Sandbox Testing Mode for testing process "
+"or mention the email id of your real PayPal account. For e.g. myaccount@xyz."
+"com"
+msgstr ""
+"Entweder erwähnen die E-Mail-ID Ihrer Sandbox Test-Modus für Testprozess "
+"oder erwähnen die E-Mail-ID des realen PayPal-Konto. Für z.B. myaccount@xyz."
+"com"
+
+#: ink-admin/appointments-form/text-data.php:15
+msgid "Payment Mode"
+msgstr "Zahlungsmittel"
+
+#: ink-admin/appointments-form/text-data.php:16
+msgid ""
+"<b>Paypal:</b> If you want pay live payment from website i.e. direct payment "
+"then you choose this option. Just enter your pay email address and make "
+"payment.<br/> <b><a href=\"https://developer.paypal.com/\" target=\"_blank"
+"\">PayPal Sandbox :</a></b> If you are going for testing process then you "
+"can choose this option. You must have a PayPal Sandbox account setup before "
+"using the testing feature.<br/><b>Pay Cash Later:</b> If you want use the "
+"service first and pay cash later on then you can choose this option."
+msgstr ""
+"<b> Paypal: </b> Wenn Sie bezahlen Live-Zahlung von der Website, dh "
+"Direktzahlungen wollen, dann können Sie diese Option wählen. . Geben Sie "
+"einfach Ihre E-Mail-Adresse und Lohn Zahlung </br><b><a href=\"https://"
+"developer.paypal.com/\" target=\"_blank\"> PayPal Sandbox: </a> </b> wenn "
+"Sie sich für Testverfahren gehen, dann können Sie diese Option wählen. Sie "
+"müssen ein PayPal Sandbox-Konto-Setup haben, bevor Sie die Testfunktion <br/"
+"> <b> Pay Barzahlung Später:. </b> Wenn Sie den Service zuerst und bar "
+"bezahlen später, dann können Sie diese Option wählen möchten."
+
+#: ink-admin/appointments-form/text-data.php:18
+msgid "Appointment Form Heading"
+msgstr "Terminformular Überschrift"
+
+#: ink-admin/appointments-form/text-data.php:19
+msgid "Enter your text heading for Appointment Form."
+msgstr "Geben Sie Ihren Text in Richtung Terminformular."
+
+#: ink-admin/appointments-form/text-data.php:20
+msgid "Fix Appointment Heading"
+msgstr "Fix Termin Überschrift"
+
+#: ink-admin/appointments-form/text-data.php:21
+msgid "Enter your text heading for Fix Appointment."
+msgstr "Geben Sie Ihren Text in Richtung Fix Termin."
+
+#: ink-admin/appointments-form/text-data.php:22
+msgid "Custom Message Heading"
+msgstr "Benutzerdefinierte Nachricht Überschrift"
+
+#: ink-admin/appointments-form/text-data.php:23
+msgid "Enter your text heading for Custom Message."
+msgstr "Geben Sie Ihren Text in Richtung kundenspezifische Mitteilung."
+
+#: ink-admin/appointments-form/text-data.php:24
+msgid "Paypal Sandbox"
+msgstr "Paypal Sandbox"
+
+#: ink-admin/appointments-form/text-data.php:25
+msgid "Pay Cash Later"
+msgstr "Bezahlen Barzahlung Später"
+
+#: ink-admin/appointments-form/text-data.php:26
+msgid "Set Default Currency"
+msgstr "Stellen Sie eine andere Währung"
+
+#: ink-admin/appointments-form/text-data.php:27
+msgid "Select Currency code."
+msgstr "Wählen Währungscode."
+
+#: ink-admin/appointments-form/text-data.php:28
+msgid "Supported Currency List"
+msgstr "Unterstützte Währungsliste"
+
+#: ink-admin/appointments-form/text-data.php:29
+msgid "Save All Changes"
+msgstr "Alle Änderungen speichern"
+
+#: ink-admin/appointments-form/text-data.php:31
+msgid ""
+"<p>Payment is successfully submitted and Your Appointment has been booked. "
+"Below are the details of your appointment.</p>"
+msgstr ""
+"<p> Die Zahlung wird erfolgreich abgegeben und Ihr Termin gebucht wurde. "
+"Hier sind die Details Ihrer Ernennung. </p>"
+
+#: ink-admin/appointments-form/text-data.php:32
+msgid "<p>Appointment Booking Unsuccessful.</p><br/><br/>"
+msgstr "<p> Terminreservierung erfolglos. </p> <br/> <br/>"
+
+#: ink-admin/apt-form.php:125
+msgid "Please enter correct reCAPTCHA key."
+msgstr "Bitte geben Sie korrekte reCAPTCHA Schlüssel."
+
+#: ink-admin/apt-form.php:127 ink-admin/apt-form.php:132
+msgid "Please re-enter your reCAPTCHA."
+msgstr "Bitte geben Sie erneut Ihre reCAPTCHA."
+
+#: ink-admin/apt-form.php:139
+msgid "<p>Please Insert All data.</p>"
+msgstr "<p> Bitte Legen Sie alle Daten. </p>"
+
+#: ink-admin/apt-form.php:188
+msgid "Email"
+msgstr "E-Mail"
+
+#: ink-admin/apt-form.php:200
+msgid "Select Service"
+msgstr "Service wählen"
+
+#: ink-admin/apt-form.php:210
+msgid "Select Date"
+msgstr "Datum wählen"
+
+#: ink-admin/apt-form.php:214
+msgid "Select Time"
+msgstr "Wählen Sie die Zeit"
+
+#: ink-admin/apt-form.php:226
+msgid "Your Message (Optional)"
+msgstr "Ihre Mitteilung (optional)"
+
+#: ink-admin/apt-form.php:242
+msgid "Book Appointment"
+msgstr "Termin reservieren"
+
+#: widget.php:8
+msgid "Just drag and drop the widget to AppointUp in the page"
+msgstr "Einfach per Drag-and-Drop auf das Widget, um Ink Termin in der Seite"
+
+#~ msgid "Service Name:&nbsp;&nbsp;<b>"
+#~ msgstr "Dienstname:&nbsp;&nbsp;<b>"
+
+#~ msgid "Appointment Date:&nbsp;&nbsp;<b>"
+#~ msgstr "Termin Datum::&nbsp;&nbsp;<b>"
+
+#~ msgid "Appointment Time:&nbsp;&nbsp;<b>"
+#~ msgstr "Termin:&nbsp;&nbsp;<b>"
+
+#~ msgid "Amount Paid:&nbsp;&nbsp;<b>"
+#~ msgstr "gezahlten Betrag:&nbsp;&nbsp;<b>"
+
+#~ msgid "Payment Currency:&nbsp;&nbsp;<b>"
+#~ msgstr "Zahlungswährung:&nbsp;&nbsp;<b>"
+
+#~ msgid "Transaction ID:&nbsp;&nbsp;<b>"
+#~ msgstr "Transaktions-ID:&nbsp;&nbsp;<b>"
+
+#~ msgid "Payment Receiver Email:&nbsp;&nbsp;<b>"
+#~ msgstr "Payment Empfänger E-Mail:&nbsp;&nbsp;<b>"
+
+#~ msgid "Payment Payer Email:&nbsp;&nbsp;<b>"
+#~ msgstr "Payment Payer Email:&nbsp;&nbsp;<b>"
+
+#~ msgid "Your Payment Status:&nbsp;&nbsp;<b>"
+#~ msgstr "Ihre Zahlung Status:&nbsp;&nbsp;<b>"

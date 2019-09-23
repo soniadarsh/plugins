@@ -1,0 +1,45 @@
+.ink-container {
+background: #e0415b;
+box-shadow: 0px 1px 12px 0px #888888;
+-webkit-box-shadow: 0px 1px 12px 0px #888888;
+-moz-box-shadow: 0px 1px 12px 0px #888888;
+border:none;
+}
+.ink-container ul.inkappform input#submit{
+    background-color: #3A3A3A;
+}
+.ink-container ul.inkappform input#submit:hover {
+    background-color: #4E4E4E;
+}
+.ink-container .ink-form ul.inkappform li h2 {
+font-size:18px;
+color:#fff;
+border-bottom: solid 1px #CC354E;
+}
+.ink-container ul.inkappform span.fix_date {
+  color: #fff;
+  font-size: 18px;
+}
+input#aptcal, #DOPBookingSystem_CheckInView1, #DOPBookingSystem_CheckOutView1 {
+    background: #cc354e url(../images/cal.png) no-repeat 95% 50%;
+}
+.ink-container ul.inkappform input.inktext, 
+.ink-container ul.inkappform textarea.inktext{
+border: solid 1px #78d397;
+background: #cc354e;
+color:#fff;
+}
+.ink-container ul.inkappform input.inktext, .ink-container ul.inkappform textarea.inktext, .ink-container ul.inkappform select.inktext, .DOPBookingSystem_Sidebar .section-item input, .DOPBookingSystem_Sidebar .section-item select{
+background: #cc354e;
+border: solid 1px #FF6680;
+color:#fff;
+}
+.ink-container ul.inkappform input.inktext:focus, ul.inkappform textarea.inktext:focus {
+border: 1px solid #fff;
+}
+.ink-container ul.inkappform input#submit{
+	background-color: #3A3A3A;
+}
+.ink-container ul.inkappform input#submit:hover{
+	background-color: #4E4E4E;
+}

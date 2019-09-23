@@ -1,0 +1,24 @@
+            == AppointUp Plugin ==
+
+            ========== Changelog ===========
+
+= Version: 1.0.4 =
+             ==========================
+1. Added Self Hosted Plugin Upadte Functionality.
+
+= Version: 1.0.3 =
+             ==========================
+1. Fixed Some styling issues.
+
+= Version: 1.0.2 =
+             ==========================
+1. Fixed Some styling issues.
+2. Fixed the sidebar widget issue.
+
+= Version: 1.0.1 =
+             ==========================
+1. Resolve the database errors and php errors.
+
+                    = Version: 1.0.0 =
+                ==========================
+AppointUp WordPress plugin Initial Released.    

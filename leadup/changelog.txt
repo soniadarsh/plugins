@@ -1,0 +1,26 @@
+== Changelog == 
+
+= Version: 1.0.7 =
+1. Added Self Hosted Plugin Upadte Functionality.
+
+= Version: 1.0.6 =
+1. Added WordPress Default color picker.
+
+= Version: 1.0.5 =
+1. Fixed autosave ajax call function.
+
+= Version: 1.0.4 =
+1. Added an option to edit submit button text.
+
+= Version: 1.0.3 =
+1. Fixed Some Styling issues.
+
+= Version: 1.0.2 =
+1. Fixed Some Styling issues.
+
+= Version: 1.0.1 =
+1. Fixed Some Styling issues.
+2. Fixed some deprecated function issues. 
+
+= Version: 1.0.0 =
+LeadUp WordPress plugin Initial Released. 

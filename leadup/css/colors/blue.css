@@ -1,0 +1,27 @@
+/*Blue Color
+===========================================
+*/
+
+.inkleadsform{
+    background: #259BD8;
+}
+
+
+.inkleadsform .signinForm ul.inkleadsul li textarea,
+.inkleadsform .signinForm ul.inkleadsul li input[type="text"],
+.inkleadsform .signinForm ul.inkleadsul li input[type="number"],
+.inkleadsform .signinForm ul.inkleadsul li input[type="email"]{
+    background: #1985bd;
+    border: solid 1px #44B6F1;
+    color: #fff;
+}
+
+.inkleadsform h2.heading{
+    border-bottom: solid 1px #44B6F1;
+}
+.inkleadsform .signinForm ul.inkleadsul li input[type="submit"]{
+	background-color: #3A3A3A;
+}
+.inkleadsform .signinForm ul.inkleadsul li input[type="submit"]:hover{
+	background-color: #4E4E4E;
+}

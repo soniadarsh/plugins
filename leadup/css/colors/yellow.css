@@ -1,0 +1,25 @@
+/*Yellow Color Style 
+=============================================================*/
+
+.inkleadsform{
+    background: #c8933f;
+}
+
+.inkleadsform .signinForm ul.inkleadsul li textarea,
+.inkleadsform .signinForm ul.inkleadsul li input[type="text"],
+.inkleadsform .signinForm ul.inkleadsul li input[type="number"],
+.inkleadsform .signinForm ul.inkleadsul li input[type="email"]{
+    background: #A8782B;
+    border: solid 1px #e6b362;
+}
+
+.inkleadsform h2.heading{
+    border-bottom: solid 1px #B3802E;
+}
+
+.inkleadsform .signinForm ul.inkleadsul li input[type="submit"]{
+	background-color: #3A3A3A;
+}
+.inkleadsform .signinForm ul.inkleadsul li input[type="submit"]:hover{
+	background-color: #4E4E4E;
+}

@@ -1,0 +1,349 @@
+# Copyright (C) 2015 Ink Leads Capture Pro Plugin
+# This file is distributed under the same license as the Ink Leads Capture Pro Plugin package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Ink Leads Capture Pro Plugin 1.0.4\n"
+"Report-Msgid-Bugs-To: http://inkthemes.com\n"
+"POT-Creation-Date: 2015-07-07 16:30+0530\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Neeraj Malviya <neeraj.malviya05@gmail.com>\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _:1;__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;_x:1,2c;_ex:1,2c;"
+"_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;esc_attr__:1;esc_html__:1;esc_attr_e:1;"
+"esc_html_e:1;esc_attr_x:1,2c;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: class-leads.php:105
+msgid "Form details below."
+msgstr "Bilden Details unten."
+
+#: class-leads.php:155
+msgid "Message Received from a New Lead"
+msgstr "Nachricht von einem neuen Leads erhalten"
+
+#: class-leads.php:165
+msgid "Back"
+msgstr "zurück"
+
+#: class-leads.php:165
+msgid "Your Message has been successfully submitted and mail sent."
+msgstr "Ihre Nachricht wurde erfolgreich abgegeben und Mail."
+
+#: leads-customform.php:55
+msgid "Enter Field Name / Select Field Type"
+msgstr "Geben Sie Feldname / Feldtyp auswählen"
+
+#: leads-customform.php:106
+msgid "Create Custom Lead Capture Form"
+msgstr "Erstellen von benutzerdefinierten Lead Capture-Formular"
+
+#: leads-customform.php:107
+msgid "Lead Form Settings"
+msgstr "Lead Formulareinstellungen"
+
+#: leads-customform.php:119
+msgid "Name"
+msgstr "Name"
+
+#: leads-customform.php:122
+msgid "Email"
+msgstr "Email"
+
+#: leads-customform.php:125
+msgid "Number"
+msgstr "Anzahl"
+
+#: leads-customform.php:128
+msgid "Message"
+msgstr "Nachricht"
+
+#: leads-customform.php:131
+msgid "Label1"
+msgstr "Etikette1"
+
+#: leads-customform.php:134
+msgid "Label2"
+msgstr "Etikette2"
+
+#: leads-customform.php:137
+msgid "Label3"
+msgstr "Etikette3"
+
+#: leads-customform.php:140
+msgid "Label4"
+msgstr "Etikette4"
+
+#: leads-customform.php:143
+msgid "Label5"
+msgstr "Etikette6"
+
+#: leads-customform.php:146
+msgid "Label6"
+msgstr "Etikette6"
+
+#: leads-customform.php:151
+msgid "Enter Field Name:"
+msgstr "Geben Sie Feldname:"
+
+#: leads-customform.php:153
+msgid "Select Field Type:"
+msgstr "Wählen Sie Feldtyp:"
+
+#: leads-customform.php:156
+msgid "Choose Fields"
+msgstr "wählen Sie Felder"
+
+#: leads-customform.php:164
+msgid "Required:"
+msgstr "Erforderlich:"
+
+#: leads-customform.php:167
+msgid "Add Field"
+msgstr "Feld hinzufügen"
+
+#: leads-customform.php:187
+msgid "Field"
+msgstr "Bereich"
+
+#: leads-customform.php:188
+msgid "Checkbox/Radio Description"
+msgstr "Checkbox / Radio Beschreibung"
+
+#: leads-customform.php:189
+msgid "Field Name"
+msgstr "Feldname"
+
+#: leads-customform.php:190
+msgid "Field Type"
+msgstr "Feldtyp"
+
+#: leads-customform.php:191
+msgid "Required"
+msgstr "erforderlich"
+
+#: leads-customform.php:192
+msgid "Field Edit"
+msgstr "Feld bearbeiten"
+
+#: leads-customform.php:193
+msgid "Action"
+msgstr "Aktion"
+
+#: leads-customform.php:347
+msgid "Yes"
+msgstr "Ja"
+
+#: leads-customform.php:347
+msgid "No"
+msgstr "Nein"
+
+#: leads-customform.php:363
+msgid "No fields"
+msgstr "keine Felder"
+
+#: leads-customform.php:389
+msgid "Lead Capture Form Heading"
+msgstr "Lead Capture Formularüberschrift"
+
+#: leads-customform.php:392
+msgid "Mention the heading for the lead capture form that will display on the sidebar."
+msgstr ""
+"Erwähnen Sie die Überschrift für die Lead-Erfassung Formular, das auf der Seitenleiste "
+"angezeigt wird."
+
+#: leads-customform.php:396
+msgid "Lead Capture Emails"
+msgstr "Lead Capture Emails"
+
+#: leads-customform.php:399
+msgid ""
+"E-mail Address- Mention multiple e-mail ids here to receive mails from lead capture form. "
+"Add comma and space to separate two email ids. For eg:- example@gmail.com, example1@gmail."
+"com"
+msgstr ""
+"E-Mail-Adress- Erwähnen Sie mehrere E-Mail-IDs Sie hier, um E-Mails von Lead-Erfassung Form "
+"zu erhalten. In Komma und Leerzeichen zu zwei E-Mail-IDs zu trennen. Zum Beispiel: - "
+"example@gmail.com, example1@gmail.com"
+
+#: leads-customform.php:403
+msgid "Google recaptcha On/Off"
+msgstr "Google recaptcha on / off"
+
+#: leads-customform.php:405
+msgid "on"
+msgstr "ein"
+
+#: leads-customform.php:406
+msgid "off"
+msgstr "weg"
+
+#: leads-customform.php:407
+msgid "By default captcha is activated. Turn it off to deactivate this"
+msgstr "Standardmäßig captcha aktiviert. Schalten Sie ihn aus, um diese zu deaktivieren"
+
+#: leads-customform.php:411
+msgid "Recaptcha Public key"
+msgstr "Recaptcha Public-Key"
+
+#: leads-customform.php:414
+msgid ""
+"Enter recaptcha public key <a href=\"https://www.google.com/recaptcha/admin\">Click here to "
+"get recaptcha key</a>"
+msgstr ""
+"Geben Sie recaptcha öffentlichen Schlüssel <a href=\"https://www.google.com/recaptcha/admin"
+"\"> Klicken Sie hier, um recaptcha Schlüssel </a> erhalten"
+
+#: leads-customform.php:418
+msgid "Recaptcha Private key"
+msgstr "Recaptcha Private Key"
+
+#: leads-customform.php:421
+msgid ""
+"Enter recaptcha private key <a href=\"https://www.google.com/recaptcha/admin\">Click here "
+"to get recaptcha key</a>"
+msgstr ""
+"Geben Sie recaptcha privaten Schlüssel <a href=\"https://www.google.com/recaptcha/admin\"> "
+"Klicken Sie hier, um recaptcha Schlüssel </a> erhalten"
+
+#: leads-customform.php:425
+msgid "Select Form Color"
+msgstr "Wählen Sie die Form Farbe"
+
+#: leads-customform.php:436
+msgid "Black"
+msgstr "schwarz"
+
+#: leads-customform.php:437
+msgid "Green"
+msgstr "grün"
+
+#: leads-customform.php:438
+msgid "Blue"
+msgstr "grün..."
+
+#: leads-customform.php:439
+msgid "Orange"
+msgstr "orange"
+
+#: leads-customform.php:440
+msgid "Teal Green"
+msgstr "Knickenten-Grün"
+
+#: leads-customform.php:441
+msgid "Purple"
+msgstr "lila"
+
+#: leads-customform.php:446
+msgid "Save"
+msgstr "Sparen"
+
+#: leads-frontend.php:238
+msgid "Incorrect please try again"
+msgstr "Falsche bitte versuchen Sie es erneut"
+
+#: leads-frontend.php:239
+msgid "Enter the words below:"
+msgstr "Geben Sie die Wörter ein:"
+
+#: leads-frontend.php:246
+msgid "Get another CAPTCHA"
+msgstr "Holen Sie sich einen anderen CAPTCHA"
+
+#: leads-frontend.php:247
+msgid "Get an image CAPTCHA"
+msgstr "Holen Sie sich ein Bild CAPTCHA"
+
+#: leads-frontend.php:260
+msgid "The captcha was incorrect"
+msgstr "Die captcha war falsch"
+
+#: leads-frontend.php:269
+msgid "Send Your Message"
+msgstr "Senden Sie Ihre Nachricht"
+
+#: leads-showdata.php:9
+msgid "Leads Capture"
+msgstr "führt zu erfassen"
+
+#: leads-showdata.php:10
+msgid "Below are the messages received from your Visitors including their contacts details."
+msgstr ""
+"Angezeigt werden die von Ihrem Besucher einschließlich ihrer Kontakte Details empfangenen "
+"Nachrichten."
+
+#: leads-showdata.php:114
+msgid "Delete Checked"
+msgstr "Überprüft löschen"
+
+#: leads-showdata.php:120
+msgid "Download CSV File"
+msgstr "Download CSV Datei"
+
+#: leads-widget.php:1
+msgid "Just drag and drop the widget to LeadsCapture plugin in the page"
+msgstr "Einfach per Drag-and-Drop auf das Widget, um LeadCapture Plugin in der Seite"
+
+#~ msgid "Enter Field Name &#47; Select Field Type"
+#~ msgstr "Введите поле Имя &#47; Выберите поле типа"
+
+#~ msgid "First Name"
+#~ msgstr "Имя"
+
+#~ msgid "Second Name"
+#~ msgstr "фамилия"
+
+#~ msgid "Label 1"
+#~ msgstr "Этикетка 1"
+
+#~ msgid "Label 2"
+#~ msgstr "Этикетка 2"
+
+#~ msgid "Label 3"
+#~ msgstr "Этикетка 3"
+
+#~ msgid "Label 4"
+#~ msgstr "Этикетка 4"
+
+#~ msgid "Label 5"
+#~ msgstr "Этикетка 5"
+
+#~ msgid "Label 6"
+#~ msgstr "Этикетка 6"
+
+#~ msgid "text"
+#~ msgstr "текст"
+
+#~ msgid "textarea"
+#~ msgstr "текст область"
+
+#~ msgid "checkbox"
+#~ msgstr "флажок"
+
+#~ msgid "radio"
+#~ msgstr "радио"
+
+#~ msgid "Enter recaptcha public key "
+#~ msgstr "Введите ReCaptcha открытый ключ"
+
+#~ msgid "Click here to get recaptcha key"
+#~ msgstr "Нажмите здесь, чтобы получить ключ ReCaptcha"
+
+#~ msgid "Enter recaptcha private key "
+#~ msgstr "Введите ReCaptcha закрытый ключ"
+
+#~ msgid "LeadsCapture Widget"
+#~ msgstr "Ведущий Захват Виджет"
+
+#~ msgid "Lead Capture"
+#~ msgstr "Ведущий Захват"
+
+#~ msgid "Lead Capture Data"
+#~ msgstr "Ведущий Захват данных"

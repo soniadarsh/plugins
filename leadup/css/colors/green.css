@@ -1,0 +1,25 @@
+/*Green Color Style
+======================================
+*/
+
+.inkleadsform{
+    background: #31cb63;
+}
+
+.inkleadsform .signinForm ul.inkleadsul li textarea,
+.inkleadsform .signinForm ul.inkleadsul li input[type="text"],
+.inkleadsform .signinForm ul.inkleadsul li input[type="number"],
+.inkleadsform .signinForm ul.inkleadsul li input[type="email"]{
+    background: #21a64c;
+    border: solid 1px #4dd77a;
+}
+
+.inkleadsform h2.heading{
+    border-bottom: solid 1px #24a84e;
+}
+.inkleadsform .signinForm ul.inkleadsul li input[type="submit"]{
+	background-color: #3A3A3A;
+}
+.inkleadsform .signinForm ul.inkleadsul li input[type="submit"]:hover{
+	background-color: #4E4E4E;
+}

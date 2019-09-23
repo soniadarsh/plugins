@@ -1,0 +1,87 @@
+#colorway_addons_active_modules tr,
+#colorway_addons_third_party_widget tr {
+/*    width: 25%;
+    display: inline-block;
+    border: 1px solid rgba(0,0,0,0.1);
+    box-sizing: border-box;*/
+    padding: 0px 30px;
+/*    margin-bottom: 5px;
+    background-color: rgba(255, 255, 255, 0.5);*/
+}
+
+#colorway_addons_active_modules tr:hover,
+#colorway_addons_third_party_widget tr:hover {
+    border-color: rgba(0,0,0,0.15);
+    background-color: #fff;
+}
+#colorway_addons_active_modules th,
+#colorway_addons_third_party_widget th {
+    width: 100%;
+    display: table-cell;
+    padding: 20px 10px 20px 0;
+}
+#colorway_addons_active_modules td,
+#colorway_addons_third_party_widget td {
+	display: table-cell;
+}
+
+#colorway_addons_active_modules .checkbox,
+#colorway_addons_third_party_widget .checkbox {
+	margin-top: 5px;
+}
+@media (min-width: 480px) {
+	#colorway_addons_active_modules tr,
+	#colorway_addons_third_party_widget tr {
+	    width: 49%;
+	    margin-left: 5px;
+	}
+	#colorway_addons_active_modules .form-table,
+	#colorway_addons_third_party_widget .form-table {
+		margin-left: -5px;
+	}
+}
+@media (min-width: 768px) {
+	#colorway_addons_active_modules tr,
+	#colorway_addons_third_party_widget tr {
+	    width: 24%;
+	}
+}
+@media (min-width: 1350px) {
+	#colorway_addons_active_modules tr,
+	#colorway_addons_third_party_widget tr {
+/*	    width: 16%;*/
+display: block;
+	}
+}
+
+.colorway-addons-footer-info {
+    background: #fff;
+    padding: 10px 25px;
+    border-radius: 3px;
+    box-shadow: 0 2px 6px 0 rgba(0,0,0,0.03);
+}
+
+.colorway_addons_video_wrapper {
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;
+	height: 0;
+	max-width: 1280px;
+	max-height: 695px;
+}
+.colorway_addons_video_wrapper iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+#colorway_addons_video_tutorial table tr th {
+	display: none;
+}
+
+/*.form-table {
+    background-color: cadetblue;
+    width: 50%;
+    padding: 15px;
+}*/

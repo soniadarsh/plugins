@@ -1,0 +1,23 @@
+.inkleadsform{
+    background: #565656;
+}
+
+
+.inkleadsform .signinForm ul.inkleadsul li textarea,
+.inkleadsform .signinForm ul.inkleadsul li input[type="text"],
+.inkleadsform .signinForm ul.inkleadsul li input[type="number"],
+.inkleadsform .signinForm ul.inkleadsul li input[type="email"]{
+    background: #3A3A3A;
+    border: solid 1px #777777;
+    color: #fff;
+}
+
+.inkleadsform h2.heading{
+    border-bottom: solid 1px #7D7D7D;
+}
+.inkleadsform .signinForm ul.inkleadsul li input[type="submit"]{
+	background-color: #3A3A3A;
+}
+.inkleadsform .signinForm ul.inkleadsul li input[type="submit"]:hover{
+	background-color: #4E4E4E;
+}

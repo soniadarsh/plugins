@@ -1,0 +1,15 @@
+#elementor-panel-category-colorway-addons .elementor-element:hover .icon,
+#elementor-panel-category-colorway-addons .elementor-element:hover .title {
+  color: #14ABF4;
+}
+.elementor-element .icon {
+  position: relative;
+}
+.elementor-element .icon .ink-widget-icon:after {
+  content: 'INK';
+  position: absolute;
+  left: 5px;
+  top: 5px;
+  font-size: 10px;
+  opacity: 0.4;
+}
