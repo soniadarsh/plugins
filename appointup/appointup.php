@@ -359,7 +359,7 @@ Ink_Appointment_Init::Install();
 //register_activation_hook(__FILE__, array('Ink_Appointment_Init', 'Install'));
 //register_deactivation_hook(__FILE__, array('Ink_Appointment_Init', 'Uninstall'));
 
-   register_activation_hook(__FILE__, 'apt_on_activate');
+register_activation_hook(__FILE__, 'apt_on_activate');
 register_deactivation_hook(__FILE__, 'apt_on_deactivate');
 
 /*
@@ -391,6 +391,6 @@ $myUpdateChecker = Puc_v4_Factory::buildUpdateChecker(
 	'appointup'
 );
 
-$myUpdateChecker->setAuthentication('3adde9bf59677ce9b20d25337ce7a5a042d7f60d');
+$myUpdateChecker->setAuthentication('1bbb1f9e71afbe4c89f93836adb71e5882c3f04c');
 $myUpdateChecker->setBranch('master');
 $myUpdateChecker->getVcsApi()->enableReleaseAssets();

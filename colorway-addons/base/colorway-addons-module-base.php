@@ -30,7 +30,7 @@ abstract class Colorway_Addons_Module_Base {
 	 */
 	public function __clone() {
 		// Cloning instances of the class is forbidden
-		_doing_it_wrong( __FUNCTION__, esc_html__( 'Cheatin&#8217; huh?', 'colorway-addons' ), '1.1.5' );
+		_doing_it_wrong( __FUNCTION__, esc_html__( 'Cheatin&#8217; huh?', 'colorway-addons' ), '1.1.6' );
 	}
 
 	/**
@@ -41,7 +41,7 @@ abstract class Colorway_Addons_Module_Base {
 	 */
 	public function __wakeup() {
 		// Unserializing instances of the class is forbidden
-		_doing_it_wrong( __FUNCTION__, esc_html__( 'Cheatin&#8217; huh?', 'colorway-addons' ), '1.1.5' );
+		_doing_it_wrong( __FUNCTION__, esc_html__( 'Cheatin&#8217; huh?', 'colorway-addons' ), '1.1.6' );
 	}
 
 	public static function is_active() {

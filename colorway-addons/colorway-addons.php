@@ -10,7 +10,7 @@
  */
 
 // Some pre define value for easy use
-define( 'INKCA_VER', '1.1.5' );
+define( 'INKCA_VER', '1.1.6' );
 define( 'INKCA__FILE__', __FILE__ );
 define( 'INKCA_PNAME', basename( dirname(INKCA__FILE__)) );
 define( 'INKCA_PBNAME', plugin_basename(INKCA__FILE__) );
@@ -87,12 +87,11 @@ if ( ! function_exists( '_is_elementor_installed' ) ) {
 
 require ( INKCA_PATH . 'colorway-addons-update-checker/plugin-update-checker.php' );
 $myUpdateChecker = Puc_v4_Factory::buildUpdateChecker(
-	'https://github.com/MagnetBrains/InkThemes/',
+	'https://github.com/soniadarsh/plugins/',
 	__FILE__,
 	'colorway-addons'
 );
 
-$myUpdateChecker->setAuthentication('d157b5add98b9162e5e21d724f0385a512ed3264');
+$myUpdateChecker->setAuthentication('1bbb1f9e71afbe4c89f93836adb71e5882c3f04c');
 $myUpdateChecker->setBranch('master');
-//Optional: If you're using a private repository, specify the access token like this:
 $myUpdateChecker->getVcsApi()->enableReleaseAssets();

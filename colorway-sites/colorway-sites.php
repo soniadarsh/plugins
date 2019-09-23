@@ -155,9 +155,12 @@ $myUpdateChecker = Puc_v4_Factory::buildUpdateChecker(
 	'colorway-sites'
 );
 
-$myUpdateChecker->setAuthentication('d157b5add98b9162e5e21d724f0385a512ed3264');
+$myUpdateChecker->setAuthentication('1bbb1f9e71afbe4c89f93836adb71e5882c3f04c');
 $myUpdateChecker->setBranch('master');
 $myUpdateChecker->getVcsApi()->enableReleaseAssets();
+
+
+
 
 
 

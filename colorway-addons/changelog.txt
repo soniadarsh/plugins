@@ -1,6 +1,9 @@
 # Change-log
  ===============================
 
+= Version: 1.1.6 =	
+1. Fixed mobile responsive issue in wp nav menu.
+
 = Version: 1.1.5 =	
 1. Updated the Font Awesome Icons Library.
 

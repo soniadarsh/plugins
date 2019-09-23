@@ -35,7 +35,7 @@ e.g.
  
 == Changelog ==
 
-= 1.1.5 =
+= 1.1.6 =
 
 * Column Slider Widget added
 * Post Slider Widget added
