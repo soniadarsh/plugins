@@ -2,9 +2,7 @@
 
             ========== Changelog ===========
 
-= Version: 1.0.4 =
-             ==========================
-1. Added Self Hosted Plugin Upadte Functionality.
+
 
 = Version: 1.0.3 =
              ==========================
