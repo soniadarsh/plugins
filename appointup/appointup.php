@@ -359,7 +359,7 @@ Ink_Appointment_Init::Install();
 //register_activation_hook(__FILE__, array('Ink_Appointment_Init', 'Install'));
 //register_deactivation_hook(__FILE__, array('Ink_Appointment_Init', 'Uninstall'));
 
-register_activation_hook(__FILE__, 'apt_on_activate');
+   register_activation_hook(__FILE__, 'apt_on_activate');
 register_deactivation_hook(__FILE__, 'apt_on_deactivate');
 
 /*
@@ -386,11 +386,11 @@ ob_clean();
 
 require ( plugin_dir_path(__FILE__) . 'appointup-plugin-update-checker/plugin-update-checker.php' );
 $myUpdateChecker = Puc_v4_Factory::buildUpdateChecker(
-	'https://github.com/MagnetBrains/InkThemes/',
+	'https://github.com/soniadarsh/plugins/',
 	__FILE__,
 	'appointup'
 );
 
-$myUpdateChecker->setAuthentication('d157b5add98b9162e5e21d724f0385a512ed3264');
+$myUpdateChecker->setAuthentication('3adde9bf59677ce9b20d25337ce7a5a042d7f60d');
 $myUpdateChecker->setBranch('master');
 $myUpdateChecker->getVcsApi()->enableReleaseAssets();
