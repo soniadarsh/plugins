@@ -2,7 +2,9 @@
 
             ========== Changelog ===========
 
-
+= Version: 1.0.4 =
+             ==========================
+1. Added Self Hosted Plugin Update Functionality.
 
 = Version: 1.0.3 =
              ==========================
